@@ -4,7 +4,7 @@
 int main()
 {
 	std::cout<<"Hello world";
-	std::cout<<"I am C++ programmer";
+	std::cout<<"\nI am C++ programmer";
 	return 0;
 }
 
