@@ -1,13 +1,12 @@
 #include <iostream>
-
 using namespace std;
-
 int main()
 {
-	float radius, circumference;
+	double radius, circumference,pi;
 	cout<<"Give the radius of the circle:";
 	cin>>radius;
-	circumference = 2*3.14*radius;
+	pi =3.141592653589793238462643383279502884197;
+	circumference = 2*pi*radius;
 	cout<<"Circumference of circle:"<< " "<< circumference << "perimeter"<<endl;
 	return 0;
 }

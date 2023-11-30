@@ -10,7 +10,7 @@ int main()
 	cout<<"Give height of the rectangle:";
 	cin>>height;
 	area = width * height;
-	cout<<"area of rectangle:"<<" "<<area<<"metersquare"<<endl;
+	cout<<"Area of rectangle:"<<" "<<area<<" "<<"metersquare"<<endl;
 	return 0;
 
 }

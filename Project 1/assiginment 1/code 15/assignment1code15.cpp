@@ -4,12 +4,12 @@ using namespace std;
 
 int main()
 {
-	cout<<"\nM      M  IIIII   SSSSS    PPPPPP";
-	cout<<"\nMM    MM    I    S     S   P      P";
-	cout<<"\nM M  M M    I    S         P      P";
-	cout<<"\nM  M   M    I     SSSSS    PPPPPP";
-	cout<<"\nM      M    I          S   P";
-	cout<<"\nM      M    I    S     S   P";
-	cout<<"\nM      M  IIIII   SSSSS    P";
+	cout<<"\n  W     W       A         JJJJJ  IIIII  H      H         A";
+	cout<<"\n  W     W      A A          J      I    H      H        A A "; 
+	cout<<"\n  W     W     A   A         J      I    H      H       A   A ";
+	cout<<"\n  W  W  W    AAAAAAA        J      I    HHHHHHHH      AAAAAAA ";
+	cout<<"\n  W W W W   A       A       J      I    H      H     A       A ";
+	cout<<"\n  WW   WW  A         A  J   J      I    H      H    A         A ";
+	cout<<"\n  W     W A           A  JJJ     IIIII  H      H   A           A ";
 	return 0;
 }

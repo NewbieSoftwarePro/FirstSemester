@@ -10,6 +10,6 @@ int main()
 	cout<<"Give the obtained marks:";
 	cin>>obtained_marks;
 	percentage = obtained_marks/total_marks * 100;
-	cout<<"Percentage marks:"<< percentage<<endl;
+	cout<<"Percentage marks:"<<" "<< percentage<<"%"<<endl;
 	return 0;
 }
