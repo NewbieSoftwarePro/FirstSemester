@@ -8,8 +8,10 @@ int main()
 	cout<<"input b:";
 	cin>>b;
 	++a *= b++;
-	++a *=++b;
 	cout<< a <<endl;
-	cout<< b ;
+	cout<<b<<endl;
+	++a *=++b;
+	cout<< b<<endl;
+	cout<<a<<endl;
 	return 0;
 }

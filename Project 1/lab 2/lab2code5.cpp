@@ -2,9 +2,11 @@
 using namespace std;
 int main()
 {
-	bool Name;
-	cout<<"input Name:";
-	cin>>Name;
-	cout<<"The name is "<<Name<<endl;
+	typedef bool Name;
+	Name wajiha, wajiha_aslam;
+	wajiha = true;
+	wajiha_aslam = false;
+	cout<<"name ="<<wajiha<<endl;
+	cout<<"name ="<<wajiha_aslam<<endl;
 	return 0;
 }
