@@ -3,9 +3,9 @@ using namespace std;
 int main()
 {
 	int month, year, days ,month_times_the_day;
-	cout<<"input days:";
+	cout<<"input days in numeric:";
 	cin>>days;
-	cout<<"input month:";
+	cout<<"input month in numeric:";
 	cin>>month;
 	cout<<"input year:";
 	cin>>year;
